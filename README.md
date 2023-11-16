@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harish R</h1>
 <h3 align="center">"As a prospective software engineer deeply enthusiastic about data science, I eagerly anticipate the ideal chance to amplify my expertise and skills within a distinguished company."</h3>
 
-<img align=”right” alt=”coding” width=”400” src=”![image](https://github.com/Harishr0608/Harishr0608/assets/98817567/4f236472-ebf5-4952-9dcf-3c81c75771a5)
+<img align=”right” alt=”coding” width=”400” src=”[![image](https://github.com/Harishr0608/Harishr0608/assets/98817567/4f236472-ebf5-4952-9dcf-3c81c75771a5)](https://github.com/Harishr0608/Harishr0608/blob/main/coding.gif)
  ”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishr0608&label=Profile%20views&color=0e75b6&style=flat" alt="harishr0608" /> </p>
