@@ -70,11 +70,13 @@ Lifelong learner empowering organizations through data-driven AI innovation.
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishr0608/)
+
+
 📩 Email: harishr0608@gmail.com
 
 ---
 
-## ✍️ Daily Quote for Inspiration
+## ✍️ Daily Quote
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
 <!-- The quote card above updates automatically every day! -->
