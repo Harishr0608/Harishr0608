@@ -6,10 +6,10 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/harishr0608/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:harishr0608@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <img src="https://visitcount.itsvg.in/api?id=Harishr0608&icon=1&color=11" alt="Profile Views">
 </p>
@@ -46,46 +46,50 @@
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=MySQL&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=flat)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Concepts-0A66C2?style=flat)
 
 ### ML / AI
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%23FF6600.svg?style=flat&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Developer-blue?style=flat)
-![DSPy](https://img.shields.io/badge/DSPy-%2300c4ff.svg?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-%23000000.svg?style=flat)
-![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-black?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-Developer-0A66C2?style=flat)
+![DSPy](https://img.shields.io/badge/DSPy-Framework-0A66C2?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-Workflows-0A66C2?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-111?style=flat)
 
 ### Data engineering & databases
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-%2300c4ff.svg?style=flat&logo=amazondynamodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipeline-green?style=flat)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-2E7D32?style=flat)
 
 ### Cloud & deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
-![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-black?style=flat&logo=amazonaws&logoColor=orange)
-![Comprehend](https://img.shields.io/badge/Amazon%20Comprehend-%2300A3E0.svg?style=flat&logo=amazon&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Amazon Comprehend](https://img.shields.io/badge/Amazon%20Comprehend-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### Visualization & BI
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%230499C7.svg?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=flat&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/LookerStudio-%230D9DDC.svg?style=flat&logo=looker&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABC1?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0D9DDC?style=flat&logo=looker&logoColor=white)
 
 ---
 
 ## ✍️ Daily quote
 <!-- Auto-updating quote card (no workflow needed) -->
 [![Daily Quote](https://readme-daily-quotes.vercel.app/api?theme=radical&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+<!-- Alternatives (uncomment one if you prefer): -->
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes) -->
+<!-- [![Quote](https://github-readme-quotes-bay.vercel.app/quote)](https://github.com/shravan20/github-readme-quotes) -->
 
 ---
 
