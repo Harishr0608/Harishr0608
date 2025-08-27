@@ -76,7 +76,6 @@ Machine Learning | NLP | LLM Applications | RAG Systems | Generative AI | Data E
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Harishr0608&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harishr0608&theme=blueberry&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishr0608&theme=blueberry&hide_border=false&layout=compact)
