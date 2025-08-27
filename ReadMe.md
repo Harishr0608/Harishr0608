@@ -11,8 +11,6 @@
 💎 **Core Strengths:**  
 Machine Learning | NLP | LLM Applications | RAG Systems | Generative AI | Data Engineering Pipelines | AI Observability | Deployment (Docker, FastAPI, Streamlit)
 
----
-
 ## 📌 Pinned Projects
 
 - 🧠 **Multi-Source RAG Chatbot**  
@@ -23,8 +21,6 @@ Machine Learning | NLP | LLM Applications | RAG Systems | Generative AI | Data E
 
 - 😷 **Real-Time Face Mask Detection**  
   *Live video mask classification system with CNN/MobileNetV2, OpenCV, and efficient TensorFlow deployment.*
-
----
 
 ## 💻 Tech Stack
 
@@ -65,8 +61,6 @@ Machine Learning | NLP | LLM Applications | RAG Systems | Generative AI | Data E
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=flat&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/LookerStudio-%230D9DDC.svg?style=flat&logo=looker&logoColor=white)
 
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishr0608/)
@@ -74,14 +68,10 @@ Machine Learning | NLP | LLM Applications | RAG Systems | Generative AI | Data E
 
 📩 Email: harishr0608@gmail.com
 
----
-
 ## ✍️ Daily Quote
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical&category=programming)](https://github.com/cheehwatang/github-readme-daily-quotes)
 <!-- The quote card above updates automatically every day! -->
-
----
 
 # 📊 GitHub Stats
 
@@ -89,5 +79,5 @@ Machine Learning | NLP | LLM Applications | RAG Systems | Generative AI | Data E
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harishr0608&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishr0608&theme=blueberry&hide_border=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Harishr0608&icon=1&color=11)](https://visitcount.itsvg.in)
