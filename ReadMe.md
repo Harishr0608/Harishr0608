@@ -1,15 +1,15 @@
-# 👨‍💻 Harish R | ML & GenAI Engineer
+# 💫 About Me:
+👋 Hi, I’m **Harish R** – a **Machine Learning Engineer** passionate about building real-world AI systems that transform data into business impact.  
 
-### 🔗 Turning data into impactful ML solutions | GenAI, RAG Systems, Cloud AI 🚀
+🚀 Experienced in designing **LLM pipelines, Retrieval-Augmented Generation (RAG) systems, and intelligent data engineering workflows**.  
+🐍 Skilled in **Python, SQL, and scalable ML model deployment** with a strong foundation in **software engineering principles & algorithms**.  
+📊 Adept at **data analysis, feature engineering, and statistical modeling** to extract insights and drive decision-making.  
+☁️ Hands-on with **AWS (Bedrock, Comprehend, DynamoDB)** for scalable ML/AI solutions.  
+🛠 Currently exploring advanced **Generative AI frameworks (LangChain, DSPy, LangGraph)** with observability & prompt optimization.  
+📚 Lifelong learner, continuously growing in applied ML, NLP, and full-stack data science.  
 
----
-
-## 💫 About Me
-
-**Machine Learning Engineer** with a robust software engineering foundation and hands-on expertise architecting **Generative AI**, LLM observability, and advanced RAG systems.  
-Skilled in designing end-to-end ML pipelines, optimizing embeddings, and deploying real-time solutions on AWS.  
-Eager to solve complex data engineering problems with modern cloud tools, robust Python code, and actionable analytics.  
-Lifelong learner empowering organizations through data-driven AI innovation.
+💎 **Core Strengths:**  
+Machine Learning | NLP | LLM Applications | RAG Systems | Generative AI | Data Engineering Pipelines | AI Observability | Deployment (Docker, FastAPI, Streamlit)
 
 ---
 
